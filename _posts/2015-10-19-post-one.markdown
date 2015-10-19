@@ -1,0 +1,10 @@
+---
+published: true
+title: Post One
+layout: post
+---
+My first post.
+
+##This is great
+
+I love it.
